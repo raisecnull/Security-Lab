@@ -53,7 +53,7 @@ export default function Gatekeeper({ children }: GatekeeperProps) {
 						</div>
 
 						<h1 className="text-3xl font-bold text-center text-red-500 mb-2 tracking-wider">
-							SECURITY WARNING
+							Terms of Agreement - DESKTOP MODE FOR MOBILE VIEW RECOMMENDED.
 						</h1>
 						<p className="text-center text-hsl(210,25%,95%) mb-8 text-sm">
 							YOU MUST READ AND AGREE TO PROCEED
@@ -65,9 +65,7 @@ export default function Gatekeeper({ children }: GatekeeperProps) {
 								EVERY MALWARE, EXPLOIT, AND ATTACK PERFORMED IS STRICTLY FOR
 								EDUCATIONAL PURPOSES. AUTHORIZED SYSTEMS ONLY. ALL MALWARES HAVE
 								INTERNAL BOUNDARIES, SLEEP DELAYS, HARDCODED ACCIDENT KEYS, AND
-								STRICT TIME-LIMITS BUILT IN. ANY MODIFICATION OR ALTERATION TO THE
-								CODE MEANS IT IS ABSOLUTELY NOT MY CODE AND I HOLD ZERO
-								RESPONSIBILITY.
+								STRICT TIME-LIMITS BUILT IN. I HOLD ZERO RESPONSIBILITY IN ANY MISUSE OF MY CODES.
 							</p>
 						</div>
 
