@@ -70,7 +70,7 @@ export default function Home() {
 									<div className="absolute inset-0 flex flex-col items-center justify-center">
 										<div className="absolute inset-0 bg-red-500/10 opacity-0 group-hover:opacity-100 transition-opacity rounded-lg" />
 										<span className="text-red-400 font-bold text-lg md:text-2xl font-mono uppercase tracking-wider z-10">
-											Hack
+											Offensive Security
 										</span>
 									</div>
 								</Link>
